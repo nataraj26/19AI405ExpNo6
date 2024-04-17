@@ -1,6 +1,6 @@
 <h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: LOKHNATH.J</h3>
-<h3>Register Number: 212223240079</h3>
+<h3>Name: NATARAJ KUMARAN S</h3>
+<h3>Register Number: 212223230137</h3>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
